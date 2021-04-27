@@ -19,3 +19,8 @@ What does it mean to *understand* something? Understanding a system requires a p
 
 It is this ability to develop, maintain, and use models, I propose, that sets apart human intelligence from so-called "narrow AI".
 
+## What is a model?
+
+The idea that intelligence is about understanding, and that understanding is about modeling, is an illuminating one, but we cannot leave it at this, because the term "model" has yet to be defined clearly. What makes something a model of another thing? What properties must a model possess for us to comfortably say that understanding is actually taking place?
+
+A model is a system whose behavior mirrors that of another system. In mathematical terms, the model is (approximately and conditionally) isomorphic to that of the system being modeled. There are a wide variety of modeling approaches, but what is universally present is that the salient relationships between components of the modeled system are also present between the corresponding components of the model.

@@ -15,7 +15,7 @@ Merriam Webster provides [several relevant definitions of intelligence](https://
 
 The last definition above is the most telling one. One of the key distinctions often pointed out between the capabilities of human intelligence and that of modern AI software, particularly Deep Learning, is the inability of AI software to transfer its capabilities to new domains. The most brilliant chess AI cannot even *process* a checker board layout, much less attempt to play a decent game. This is because the AI does not *understand* chess or its relationship to games in general; rather, it is just extremely clever at optimizing a strategy within the framework spoon fed to it by the developer.
 
-# What is understanding?
+## What is understanding?
 
 What does it mean to *understand* something? Understanding a system requires a person to hold a *model* of that system within their mind, which can be used, among other things, to reason about the system, to plan interactions with it, to make predictions about it, to design experiments to gain new insights about the system, to compare the system to other systems, or even to translate effective strategies from one system to another. (Note that the word "model", as I use it here, has a very different meaning from the word as it is commonly used in the domain of machine learning.)
 
